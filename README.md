@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/HTML-1E90FF?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
 <img src="https://img.shields.io/badge/C%23-1E90FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
