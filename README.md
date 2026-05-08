@@ -17,13 +17,13 @@
 
 <h3>𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h3>
 
-<p> 
-<img src="https://img.shields.io/badge/HTML-1E90FF?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-1E90FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML-1E90FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-1E90FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
