@@ -43,7 +43,6 @@
 <h3>𝙲𝚘𝚗𝚝𝚊𝚌𝚝</h3>
 
 <p style="font-family: monospace;">
-- <b>Email</b>: <a href="mailto:sofiaestrelabernardes@gmail.com">sofiaestrelabernardes@gmail.com</a><br>
 - <b>GitHub</b>: <a href="https://github.com/sofiaestrelab">github.com/sofiaestrelab</a><br>
 - <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/sofiaestrela/">linkedin.com/in/sofiaestrela</a>
 </p>
