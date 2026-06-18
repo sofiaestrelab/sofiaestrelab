@@ -38,7 +38,7 @@
 <h3>𝙲𝚘𝚗𝚝𝚊𝚌𝚝</h3>
 
 <p style="font-family: monospace;"> 
-  - <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/sofiaestrela/">linkedin.com/in/sofiaestrela</a> </p>
+  - <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/sofiaestrela/">linkedin.com/in/sofiabernardes</a> </p>
 
   ---
   
